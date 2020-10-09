@@ -1,1 +1,1 @@
-basic application performing crud operation in springboot using h2 database
+Basic application performing crud operation in springboot using h2 database
